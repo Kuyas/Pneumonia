@@ -9,5 +9,5 @@ The models that have been used
 - MobileNet
 
 
-Coming Soon
+# Coming Soon
 - Semi Supervised classification using GANs
